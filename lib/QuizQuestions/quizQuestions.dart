@@ -42,6 +42,11 @@ class _QuizQuestionsState extends State<QuizQuestions> {
         "answer": ["Chennai", "Banglore", "Delhi", "Mumbai"],
         "correctAnswer": "Delhi",
       },
+      {
+        "question": "What is Capital of Maharastra?",
+        "answer": ["Chennai", "Banglore", "Delhi", "Mumbai"],
+        "correctAnswer": "Delhi",
+      },
     ]
   };
 
